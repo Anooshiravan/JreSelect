@@ -1,0 +1,7 @@
+C:\Projects\JreSelect\JreSelect\bin\Release\JreSelect.exe
+C:\Projects\JreSelect\JreSelect\bin\Release\JreSelect.pdb
+C:\Projects\JreSelect\JreSelect\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Projects\JreSelect\JreSelect\obj\x86\Release\JreSelect.exe
+C:\Projects\JreSelect\JreSelect\obj\x86\Release\JreSelect.pdb
+D:\Github\VET\JreSelect\JreSelect\obj\x86\Release\JreSelect.exe
+D:\Github\VET\JreSelect\JreSelect\obj\x86\Release\JreSelect.pdb
